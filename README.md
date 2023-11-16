@@ -39,7 +39,7 @@ Please note - currently only supports **Unity 2021.3** and later!
 
 * Open the Package Manager window (Window → Package Manager) and and then select the Add Package icon in the top left of
   the window to add a git package.
-* Enter ```https://github.com/simonoliver/UnityFigmaBridge.git```
+* Enter ```https://github.com/david-brightcrowns/UnityFigmaBridge.git```
 * Open Project Settings (Edit → Project Settings) and click "Create" to create a new settings asset
 * Paste in the URL of your Figma Document (eg ```https://www.figma.com/file/..../...```)
 * Get a [Figma Personal Access Token from your user profile page](https://www.figma.com/developers/api#authentication),
